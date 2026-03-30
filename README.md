@@ -46,7 +46,6 @@ Mock Interview: [Watch Me](https://youtu.be/uKzxF39o8_M)
 - Assisted in developing campaign strategies to increase audience engagement  
 - Created and managed engaging digital content across social media platforms  
 
----
 
 ### **Instavid360**  
 *QA - Quality Assurance Analyst*  
@@ -118,5 +117,3 @@ Co-Founder – Girls in STEAM SA
 QA Director – Instavid360  
 📞 081 269 3771  
 📧 [justin@instavid360.com](mailto:justin@instavid360.com)  
-
----
