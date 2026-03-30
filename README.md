@@ -2,10 +2,11 @@
 ### Software Engineer  
 
 📍 Cape Town, South Africa  
-📧 240263952@mycput.ac.za  
-📞 072 582 9215  
-🔗 GitHub: https://github.com/LESEGO-KUTLWANO-TSHABALALA  
-🔗 LinkedIn: http://www.linkedin.com/in/lesego-k-tshabalala  
+📧 [240263952@mycput.ac.za](mailto:240263952@mycput.ac.za)  
+📞 [072 582 9215](tel:+27725829215)  
+🔗 GitHub: [LESEGO-KUTLWANO-TSHABALALA](https://github.com/LESEGO-KUTLWANO-TSHABALALA)  
+🔗 LinkedIn: [lesego-k-tshabalala](http://www.linkedin.com/in/lesego-k-tshabalala)  
+🔗 Mock Interview: [Mock Interview](https://youtu.be/uKzxF39o8_M) 
 
 ---
 
@@ -106,13 +107,13 @@
 ### **Hendricks Swart**  
 Co-Founder – Girls in STEAM SA  
 📞 082 757 9868  
-📧 hfswarts@gmail.com  
+📧 [hfswarts@gmail.com](mailto:hfswarts@gmail.com)  
 
 ---
 
 ### **Justin**  
 QA Director – Instavid360  
 📞 081 269 3771  
-📧 justin@instavid360.com  
+📧 [justin@instavid360.com](mailto:justin@instavid360.com)  
 
 ---
