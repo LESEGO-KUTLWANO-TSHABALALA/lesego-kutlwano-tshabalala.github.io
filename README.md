@@ -3,10 +3,13 @@
 
 📍 Cape Town, South Africa  
 📧 [240263952@mycput.ac.za](mailto:240263952@mycput.ac.za)  
-📞 [072 582 9215](tel:+27725829215)  
-🔗 GitHub: [LESEGO-KUTLWANO-TSHABALALA](https://github.com/LESEGO-KUTLWANO-TSHABALALA)  
-🔗 LinkedIn: [lesego-k-tshabalala](http://www.linkedin.com/in/lesego-k-tshabalala)  
-🔗 Mock Interview: [Mock Interview](https://youtu.be/uKzxF39o8_M) 
+📞 [072 582 9215](tel:+27725829215) 
+
+---
+## 🔗 Links
+GitHub: [LESEGO-KUTLWANO-TSHABALALA](https://github.com/LESEGO-KUTLWANO-TSHABALALA)  
+LinkedIn: [lesego-k-tshabalala](http://www.linkedin.com/in/lesego-k-tshabalala)  
+Mock Interview: [Watch Me](https://youtu.be/uKzxF39o8_M) 
 
 ---
 
@@ -21,15 +24,15 @@
 
 ## 🎓 Education
 
-**Cape Peninsula University of Technology**  
-*Diploma in ICT: Application Development*  
-📍 District Six, WC  
-📅 Jan 2024 – Present  
-
 **BICS (Bophelong Independent Community School)**  
 📍 Kwamhlanga, MP  
 📅 Jan 2017 – Dec 2021  
-✔ Diploma Pass  
+✔ Diploma Pass 
+
+**Cape Peninsula University of Technology**  
+*Diploma in ICT: Application Development*  
+📍 District Six, WC  
+📅 Jan 2024 – Present   
 
 ---
 
