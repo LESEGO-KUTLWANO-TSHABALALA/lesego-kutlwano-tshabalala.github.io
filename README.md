@@ -120,5 +120,5 @@ QA Director – Instavid360
 
  # Mock Interview
  <video width="600" controls>
-  <source src="Mock Interview of Ethan Williams.mp4" type="video/mp4">
+  <source src="Mock Interview.mp4" type="video/mp4">
 </video>
