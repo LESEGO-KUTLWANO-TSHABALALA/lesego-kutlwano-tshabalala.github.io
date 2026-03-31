@@ -15,10 +15,10 @@ Mock Interview: [Watch Me](https://youtu.be/uKzxF39o8_M)
 
 ##  Professional Summary
 
-🚀 Software Developer with a passion for building scalable and user-focused applications.  
-🔍 Skilled in Java, Kotlin, SQL, and modern development tools.  
-🎨 Strong interest in UI/UX design, combining aesthetics with functionality.  
-💡 Continuously learning and exploring AI and innovative technologies to solve real-world problems.
+ Software Developer with a passion for building scalable and user-focused applications.  
+ Skilled in Java, Kotlin, SQL, and modern development tools.  
+ Strong interest in UI/UX design, combining aesthetics with functionality.  
+ Continuously learning and exploring AI and innovative technologies to solve real-world problems.
 
 ---
 
@@ -36,7 +36,7 @@ Mock Interview: [Watch Me](https://youtu.be/uKzxF39o8_M)
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 ### **Zest Strategies**  
 *Social Media & Content Intern*  
@@ -69,7 +69,7 @@ Mock Interview: [Watch Me](https://youtu.be/uKzxF39o8_M)
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 ###  Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
