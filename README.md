@@ -119,6 +119,6 @@ QA Director – Instavid360
  [justin@instavid360.com](mailto:justin@instavid360.com)  
 
  # Mock Interview
- <video width="600" controls>
-  <source src="Mock Interview.mp4" type="video/mp4">
+<video width="600" controls>
+  <source src="Mock%20Interview.mp4" type="video/mp4">
 </video>
