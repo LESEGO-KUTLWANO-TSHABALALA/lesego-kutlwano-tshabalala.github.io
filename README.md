@@ -119,7 +119,59 @@ QA Director – Instavid360
  [justin@instavid360.com](mailto:justin@instavid360.com)  
 
  # Mock Interview
+ 
  ---
+ 
 <video width="600" controls>
   <source src="Mock%20Interview.mp4" type="video/mp4">
 </video>
+
+#  Reflections
+
+---
+
+##  Reflection on Coding CV in Markdown
+
+### **Situation**
+The previous deliverable required me to convert my traditional CV, which I created in Term 1, into a web-based format using Markdown on GitHub. This was my first time presenting professional information in this way.
+
+### **Task**
+My task was to create a well-defined, well-structured CV that is both visually appealing and professional using Markdown syntax. In addition, I needed to create a GitHub account (if not already done) and host the CV using GitHub Pages.
+
+### **Action**
+I learned how to code my CV using Markdown and applied formatting techniques such as headings, lists, and spacing to organize the content effectively. I found Markdown easy and enjoyable to learn. My main challenge was navigating GitHub Pages, but after consulting with a few friends, I was able to understand the process and successfully set it up.
+
+### **Result**
+I successfully created a professional, easy-to-read CV that is accessible online. This experience increased my confidence in using Markdown. I also appreciated the flexibility of being able to update my CV at any time, with changes reflecting immediately on the live page.
+
+---
+
+##  Reflection on Mock Interview Video
+
+### **Situation**
+I was required to create a mock interview video by selecting questions from different interview categories to simulate a real interview scenario.
+
+### **Task**
+My objective was to communicate clearly, present myself professionally, and demonstrate confidence while answering the questions. I also aimed to appear presentable, as I would in a real interview setting.
+
+### **Action**
+I reviewed a range of interview questions and selected a few that I was comfortable with, as well as one that challenged me. I practiced my responses multiple times before recording the video. After recording, I reviewed my performance to identify areas for improvement.
+
+### **Result**
+I was satisfied with the outcome of my video and successfully embedded it into my GitHub Pages portfolio. The experience helped me become more aware of my communication style and highlighted areas where I can improve, especially in confidence and delivery.
+
+---
+
+##  Reflection on Using GitHub Pages
+
+### **Situation**
+I was required to publish my digital portfolio online using GitHub Pages, which included my CV, mock interview video, and reflections. Although I had used GitHub before, this was my first time using GitHub Pages.
+
+### **Task**
+My goal was to successfully host my portfolio so that it is publicly accessible and presents my work in a professional and organized manner.
+
+### **Action**
+I learned how to link my GitHub Pages site to my repository and configure it correctly. Once the site was live, I added all the required content. I found it easier to work with Markdown after deployment, as I could visually see updates reflected on the website in real time.
+
+### **Result**
+I successfully published my portfolio as a live website. This experience gave me practical knowledge of deployment and version control. It also increased my confidence in using GitHub as a platform to showcase my work to potential employers.
