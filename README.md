@@ -52,9 +52,10 @@ Mock Interview: [Watch Me](https://youtu.be/uKzxF39o8_M)
  Cape Town, WC  
  Aug 2025 – Dec 2025  
 
-- Documented defects clearly and collaborated with developers for resolution  
-- Verified software functionality against requirements and user expectations  
-- Maintained computers, classroom equipment, and over 200 printers across campus  
+- Tested software features and reported issues when found.
+- Checked that software worked as expected during use.
+- Helped identify problems and shared feedback with the team.
+- Assisted with basic testing of applications before release. 
 
 ---
 
