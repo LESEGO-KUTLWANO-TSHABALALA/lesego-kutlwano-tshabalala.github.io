@@ -186,3 +186,6 @@ I successfully published my portfolio as a live website. This experience gave me
 ## 1. Agile Team Charter
 
 ### Evidence
+[Agile Team Charter (PDF)](The_Agile_Team_Charter.pdf)
+
+<iframe src="The_Agile_Team_Charter.pdf" width="100%" height="600px"></iframe>
