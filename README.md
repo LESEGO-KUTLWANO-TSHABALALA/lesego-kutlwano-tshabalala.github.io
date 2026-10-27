@@ -176,3 +176,13 @@ I learned how to link my GitHub Pages site to my repository and configure it cor
 
 ### **Result**
 I successfully published my portfolio as a live website. This experience gave me practical knowledge of deployment and version control. It also increased my confidence in using GitHub as a platform to showcase my work to potential employers.
+
+---
+
+# Agile Project Portfolio
+
+---
+
+## 1. Agile Team Charter
+
+### Evidence
