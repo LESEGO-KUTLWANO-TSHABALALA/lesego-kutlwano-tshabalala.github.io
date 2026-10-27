@@ -186,6 +186,16 @@ I successfully published my portfolio as a live website. This experience gave me
 ## 1. Agile Team Charter
 
 ### Evidence
-[Agile Team Charter (PDF)](The_Agile_Team_Charter.pdf)
+[The Agile Team Charter (PDF)](The_Agile_Team_Charter.pdf)
 
 <iframe src="The_Agile_Team_Charter.pdf" width="100%" height="600px"></iframe>
+
+### Reflection
+
+**Situation:** At the start of the MentorMatch project, our team of five needed a shared understanding of how we would work together. MentorMatch is a platform that connects ICT students with learning resources and senior student mentors. We were also balancing it with the PFP362S Entrepreneur Project, so time was a clear constraint from the beginning. We created an Agile Team Charter, last updated on 3 May 2026, to set our purpose, roles, ways of working and expectations before building anything.
+
+**Task:** My task was to contribute to and agree to the charter as a team member, and to take responsibility for my role as Tester. This meant reviewing and debugging code, doing quality assurance and helping optimise the code the developer produced. I also had to follow the working agreements, such as showing up prepared, raising blockers early and giving constructive feedback.
+
+**Action:** I signed the charter and used it as a guide for my work. The Definition of Done (code completed and reviewed, tests passed, documentation updated and Product Owner acceptance) gave me a clear standard to test against, so I knew when a feature could be accepted. Using Kanban on Trello let me see what was ready for testing, and the daily stand-ups and weekly retrospectives gave me regular chances to report issues and raise blockers early. Clear roles, with the Product Owner making final decisions and an escalation path from the team to the Agile Lead, Product Owner and lecturer, meant we knew who to go to when we needed direction.
+
+**Result:** The charter taught me that Agile depends on clear agreements as much as on technical skill. Writing down our values (respect, transparency, accountability, trust and a learning mindset) made it easier to hold myself and my teammates accountable. I also learned that a charter is a living document. Reviewing it at each retrospective meant we could adjust it as our needs changed, particularly with time as our main constraint. In future projects I would define working hours and response-time expectations in more detail, since that section of our charter was left fairly open.
