@@ -249,3 +249,21 @@ I successfully published my portfolio as a live website. This experience gave me
 **Trello board:** [Varsity MentorHub | Trello](https://trello.com/b/jRfNEsBb/varsity-mentorhub)
 
 <iframe src="Sprint_Backlog.pdf" width="100%" height="600px"></iframe>
+
+### Reflection
+
+**Situation:** MentorMatch was delivered over 15 sprints on our Trello board, each with the same structure: one goal and a checklist of five tasks. The sprints followed the order in which the product had to be built. Sprints 1 to 4 covered planning (the business case, marketing strategy, documentation and presentation preparation). Sprints 5 to 7 covered design and business planning (wireframes and UI mockups, the ERD and database design, and subscription and partner planning). Sprints 8 to 13 covered development (environment setup, registration and authentication, tutor profiles, search, filter and booking, messaging and notifications, and ratings with frontend-backend integration). Sprints 14 and 15 covered testing, performance and the final review.
+
+**Task:** My task was to understand what each sprint committed the team to deliver, and to make sure the work could be tested against its goal. As Tester, I needed to know each sprint's tasks and what finished work should look like, so that I could check it against the Definition of Done in our team charter. I also had to take part in the sprint tasks assigned to the whole team.
+
+**Action:** For each sprint we broke the goal into five tasks and tracked them as a checklist on a Trello card, with the whole team assigned. The planning and design sprints, and the early development sprints (5 to 9), were split into daily cards with due dates, so progress could be checked day by day. Later sprints moved to a single card per sprint, with tasks that followed the build order, such as design the UI, build the feature, then test it (for example Sprint 11: design and build search and filter, design and build booking, then test both). Sprint 14 was dedicated to quality work, with tasks for writing test cases, functional testing, debugging, regression testing and finalising, which matched my role most closely. Sprint 15 ended the project with performance analysis, database and frontend optimisation, a final QA review and a close-out sign-off. I used the checklists and Completed ticks to see what was done and what remained.
+
+**Result:** I learned that sprints work best when they are small, specific and ordered. Five clear tasks per sprint made the work manageable, and putting design and database work before development meant developers had something to build from. Daily cards gave us tighter control in the early sprints, and I saw that testing is strongest when it is planned for in each sprint, not left to the end. I also learned that a board only helps if it is kept accurate. Some cards were marked Completed while checklist items were still unticked, such as the microcopy task in Sprint 5 and the 0/5 checklists on later sprints at one stage, which made the status harder to trust. In future projects I would tick tasks as soon as they are finished, test each feature in the sprint it is built, and review the sprint backlog with the team at every planning session.
+
+## 5. Agile Logbook
+
+### Evidence
+
+**Agile logbook (PDF):** [Agile Logbook (PDF)](Agile_Logbook.pdf)
+
+<iframe src="Agile_Logbook.pdf" width="100%" height="600px"></iframe>
