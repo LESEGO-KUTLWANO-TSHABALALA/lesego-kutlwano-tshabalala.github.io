@@ -177,6 +177,7 @@ I learned how to link my GitHub Pages site to my repository and configure it cor
 ### **Result**
 I successfully published my portfolio as a live website. This experience gave me practical knowledge of deployment and version control. It also increased my confidence in using GitHub as a platform to showcase my work to potential employers.
 
+
 ---
 
 # Agile Project Portfolio
@@ -198,4 +199,9 @@ I successfully published my portfolio as a live website. This experience gave me
 
 **Action:** I signed the charter and used it as a guide for my work. The Definition of Done (code completed and reviewed, tests passed, documentation updated and Product Owner acceptance) gave me a clear standard to test against, so I knew when a feature could be accepted. Using Kanban on Trello let me see what was ready for testing, and the daily stand-ups and weekly retrospectives gave me regular chances to report issues and raise blockers early. Clear roles, with the Product Owner making final decisions and an escalation path from the team to the Agile Lead, Product Owner and lecturer, meant we knew who to go to when we needed direction.
 
-**Result:** The charter taught me that Agile depends on clear agreements as much as on technical skill. Writing down our values (respect, transparency, accountability, trust and a learning mindset) made it easier to hold myself and my teammates accountable. I also learned that a charter is a living document. Reviewing it at each retrospective meant we could adjust it as our needs changed, particularly with time as our main constraint. In future projects I would define working hours and response-time expectations in more detail, since that section of our charter was left fairly open.
+**Result:** The charter taught me that Agile depends on clear agreements as much as on technical skill. Writing down our values (respect, transparency, accountability, trust and a learning mindset) made it easier to hold myself and my teammates accountable. I also learned that a charter is a living document. Reviewing it at each retrospective meant we could adjust it as our needs changed, particularly with time as our main constraint. In future projects, I would define working hours and response-time expectations in more detail, since that section of our charter was left fairly open.
+
+
+## 2. User Stories and Tasks
+
+### Evidence
