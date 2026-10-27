@@ -226,3 +226,17 @@ I successfully published my portfolio as a live website. This experience gave me
 
 ### Evidence
 
+**Product backlog (PDF):** [Product Backlog (PDF)](Product_Backlog.pdf)
+**Trello board:** [Varsity MentorHub | Trello](https://trello.com/b/jRfNEsBb/varsity-mentorhub)
+
+<iframe src="Product_Backlog.pdf" width="100%" height="600px"></iframe>
+
+### Reflection
+
+**Situation:** Once the team charter and user stories were in place, MentorMatch needed a single, ordered list of everything the project required, from the business case through to the final review. We kept this list on our Trello board as a series of sprint cards, each with a checklist, assigned members and, for the earlier sprints, due dates.
+
+**Task:** My task was to understand the backlog and its order so that I could plan my testing around it. As Tester, I needed to know which items were finished and ready for review, and which were still to come, especially the Testing & Debugging sprint that was planned for later in the project.
+
+**Action:** The backlog followed the natural order of building a product. It started with planning work (the business case, marketing strategy, documentation and presentation preparation), moved into design (wireframes and the database ERD), then business planning (subscription tiers and partners), and then development (environment setup, registration and authentication, tutor profiles, search and booking, messaging) before ending with testing, performance and a final review. Colour labels separated the types of work, each card carried a 5-item checklist, and the whole team was assigned to every card. I used the checklist counts and the Completed ticks to see what stage each item was at. Items I had not yet started, such as Sprint 14 (Testing & Debugging) and Sprint 15 (Performance & Final Review), were still at the end of the list.
+
+**Result:** I learned that a product backlog is only useful when it is ordered by priority and kept up to date. Putting design and database work before development meant developers had something to build from, and leaving testing until after the features existed made sense for my role. I also noticed that the backlog needed regular maintenance. Some cards were ticked as completed while their checklists still showed 0/5, which made the board harder to trust. In future I would tick checklist items as soon as work is done and review the order of the backlog at every planning session.
